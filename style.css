@@ -1,0 +1,27 @@
+h1{
+    color: #001AFF;
+}
+*{
+    color:brown;
+    border:solid;
+    background-color: #C2F8D7;
+}
+.header{
+    background-color: #00FFDD;
+    display:flex;
+    justify-content: space-around;
+    
+}
+.header a {
+    color: #043F3F
+}
+.text1 {
+    color: #05C91F;
+    display:flex;
+    justify-content: space-evenly;
+}
+.hyperlinks2{
+    color: #FFEE00;
+    display:flex;
+    justify-content: space-between;
+}
